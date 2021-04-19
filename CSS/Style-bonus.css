@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+header{
+    background-color: #4ea0ff;
+    background-repeat: repeat-x;
+    height: 100px;
+    position: relative;
+}
+
+.bg-header{
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+}
+
+.logo{
+    width: 150px;
+    position: absolute;
+    top: 40px;
+    margin: 10px;
+}
+
+main{
+    margin: 10px;
+}
+
+mark {
+    background-color: yellow;
+  }
+
+.writers{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.txt-blue{
+    color:#4ea0ff;
+}
+
+.txt-sm{
+    font-size: 13px;
+}
+
+p, .table{
+    margin: 15px 0;
+}
+
+li{
+    margin-left: 15px;
+}
+
+.column1, .column2, .column3 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.column1, .column2 {
+    width: 20%;
+}
+
+.column3{
+    width: 55%;
+}
+
+.raw-header{
+    color: white;
+    background-color: #20a9e5;
+    font-weight: bold;
+}
+
+.bg-blue{
+    background-color: #b1e5f2;
+}
+
+h4{
+    color: gray;
+    margin-top: 30px;
+}
+
+.interest{
+    width: 200px;
+    height: 200px;
+    margin: 10px 0;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}  
+
+.int-bg1{
+    background: url(../img/monitor.jpg) no-repeat center;
+}
+
+.int-bg2{
+    background: url(../img/graph.jpg) no-repeat center;
+}
