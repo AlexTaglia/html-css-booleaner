@@ -1,0 +1,50 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+header{
+background-color: #4ea0ff;
+background-image: url(../img/pattern.png);
+background-repeat: repeat-x;
+background-size: ;
+height: 100px;
+position: relative;
+}
+
+header img{
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+}
+
+mark {
+    background-color: yellow;
+  }
+
+.column1, .column2, .column3 {
+    display: inline-block;
+vertical-align: top;}
+
+.column1, .column2 {
+    width: 20%;
+}
+
+.column3{
+    width: 55%;
+}
+
+.raw-header{
+    color: white;
+    background-color: #20a9e5;
+    font-weight: bold;
+}
+
+.bg-blue{
+    background-color: #b1e5f2;
+}
+
+.interest{
+    width: 500px;
+}  
