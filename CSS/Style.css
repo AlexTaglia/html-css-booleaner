@@ -17,7 +17,7 @@ header{
     background-size: 400px;
 }
 
-header img{
+.logo{
     width: 150px;
     position: absolute;
     bottom: 0;
