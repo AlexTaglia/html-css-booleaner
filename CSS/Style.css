@@ -19,7 +19,7 @@ header{
 .logo{
     width: 150px;
     position: absolute;
-    bottom: 0;
+    top: 40px;
     margin: 10px;
 }
 
